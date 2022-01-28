@@ -29,6 +29,15 @@
 
 7.LightGBM
 
+<h3 align="left">Comparison of Model Performance:</h3>
+<div align="leftr">
+    <img src="/Screenshot 2022-01-28 201525.png" width="400px"</img> 
+</div>
+
+<h3 align="left">Kaggle Rank:</h3>
+The leaderboard rank is 412 out of 5558 which is under top 8% of learderboard ranks.
+
+
 
 ![ScreenShot]()
 
