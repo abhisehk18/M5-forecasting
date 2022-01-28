@@ -37,6 +37,20 @@
 <h3 align="left">Kaggle Rank:</h3>
 The leaderboard rank is 412 out of 5558 which is under top 8% of learderboard ranks.
 
+<h3 align="left">Blog Link:</h3>
+https://medium.com/@abhishekrai352/m5-forecasting-accuracy-afba807748ca
+
+<h3 align="left">Deployement Video Link:</h3>
+https://youtu.be/qNmWXqCi8jQ
+
+<h3 align="left">LinkedIn:</h3>
+https://www.linkedin.com/in/abhishek-rai-8b3634169/
+
+
+
+
+
+
 
 
 
