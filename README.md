@@ -29,6 +29,8 @@
 
 7.LightGBM
 
+8.Custom Stacked Model
+
 <h3 align="left">Comparison of Model Performance:</h3>
 <div align="leftr">
     <img src="/Screenshot 2022-01-28 201525.png" width="400px"</img> 
