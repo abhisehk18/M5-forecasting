@@ -39,5 +39,5 @@ The leaderboard rank is 412 out of 5558 which is under top 8% of learderboard ra
 
 
 
-![ScreenShot]()
+
 
